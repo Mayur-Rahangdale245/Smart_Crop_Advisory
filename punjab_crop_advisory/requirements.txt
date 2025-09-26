@@ -1,0 +1,10 @@
+streamlit
+requests
+pandas
+matplotlib
+pydub
+speechrecognition
+gtts
+streamlit-mic-recorder
+sqlite3
+
